@@ -1,0 +1,15 @@
+Exo 2.0 | Black
+Montserrat | Light, Medium, Bold
+PlayFair Display | Regular
+
+===========================================================
+
+Google fonts link:
+
+<link href="https://fonts.googleapis.com/css?family=Exo+2:900|Montserrat:300,300i,500,700|Playfair+Display&display=swap&subset=cyrillic" rel="stylesheet">
+
+Specify in CSS:
+
+font-family: 'Exo 2', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
